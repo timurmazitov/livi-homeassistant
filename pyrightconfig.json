@@ -1,0 +1,9 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "include": ["custom_components", "scripts"],
+  "reportMissingImports": "error",
+  "pythonVersion": "3.14",
+  "reportIncompatibleVariableOverride": false,
+  "reportIncompatibleMethodOverride": false
+}

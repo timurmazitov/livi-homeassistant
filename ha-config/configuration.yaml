@@ -1,0 +1,6 @@
+# Минимальная configuration.yaml для тестового стенда.
+default_config:
+
+logger:
+  logs:
+    custom_components.livi: debug

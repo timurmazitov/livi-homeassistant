@@ -1,0 +1,19 @@
+.venv/
+work/
+fixtures/
+__pycache__/
+*.pyc
+ha-config/.storage/
+ha-config/home-assistant*
+ha-config/.cloud/
+ha-config/.ffmpeg/
+ha-config/deps/
+ha-config/tts/
+.ruff_cache/
+
+# APK и локальный мусор тестового HA
+Livi-*.apk
+ha-config/.cache/
+ha-config/.HA_VERSION
+ha-config/.ha_run.lock
+ha-config/blueprints/
