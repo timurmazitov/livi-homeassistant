@@ -24,6 +24,5 @@ jobs:
       - name: Check out code
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
       - name: Hassfest validation
-        # home-assistant/actions @ master
-        uses: >-
-          home-assistant/actions@86d4564712fa02543c808e3a693dd04f9d3f8361
+        # home-assistant/actions hassfest subaction @ master
+        uses: home-assistant/actions/hassfest@940d5cf0a256b4264410d624476d7b38f5c84c39
